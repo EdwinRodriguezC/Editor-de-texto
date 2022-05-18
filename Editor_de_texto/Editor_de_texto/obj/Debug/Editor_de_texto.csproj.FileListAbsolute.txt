@@ -1,0 +1,16 @@
+D:/Users/Yo/Desktop/Editor_de_texto/Editor_de_texto/bin/Debug/Editor_de_texto.exe.config
+D:/Users/Yo/Desktop/Editor_de_texto/Editor_de_texto/bin/Debug/Editor_de_texto.exe
+D:/Users/Yo/Desktop/Editor_de_texto/Editor_de_texto/bin/Debug/Editor_de_texto.pdb
+D:/Users/Yo/Desktop/Editor_de_texto/Editor_de_texto/obj/Debug/Editor_de_texto.csprojAssemblyReference.cache
+D:/Users/Yo/Desktop/Editor_de_texto/Editor_de_texto/obj/Debug/Editor_de_texto.Form1.resources
+D:/Users/Yo/Desktop/Editor_de_texto/Editor_de_texto/obj/Debug/Editor_de_texto.Properties.Resources.resources
+D:/Users/Yo/Desktop/Editor_de_texto/Editor_de_texto/obj/Debug/Editor_de_texto.csproj.GenerateResource.cache
+D:/Users/Yo/Desktop/Editor_de_texto/Editor_de_texto/obj/Debug/Editor_de_texto.csproj.CoreCompileInputs.cache
+D:/Users/Yo/Desktop/Editor_de_texto/Editor_de_texto/obj/Debug/Editor_de_texto.exe
+D:/Users/Yo/Desktop/Editor_de_texto/Editor_de_texto/obj/Debug/Editor_de_texto.pdb
+/Volumes/ADATA_DISCO/SEMESTRE 7/A- Teoria de la computación /Editor_de_texto/Editor_de_texto/obj/Debug/Editor_de_texto.csproj.AssemblyReference.cache
+/Volumes/ADATA_DISCO/SEMESTRE 7/A- Teoria de la computación /Editor_de_texto/Editor_de_texto/obj/Debug/Editor_de_texto.Properties.Resources.resources
+/Volumes/ADATA_DISCO/SEMESTRE 7/A- Teoria de la computación /Editor_de_texto/Editor_de_texto/obj/Debug/Editor_de_texto.csproj.GenerateResource.cache
+/Volumes/ADATA_DISCO/SEMESTRE 7/A- Teoria de la computación /Editor_de_texto/Editor_de_texto/obj/Debug/Editor_de_texto.csproj.CoreCompileInputs.cache
+/Volumes/ADATA_DISCO/SEMESTRE 7/A- Teoria de la computación /Editor_de_texto/Editor_de_texto/obj/Debug/Editor_de_texto.exe
+/Volumes/ADATA_DISCO/SEMESTRE 7/A- Teoria de la computación /Editor_de_texto/Editor_de_texto/obj/Debug/Editor_de_texto.pdb
